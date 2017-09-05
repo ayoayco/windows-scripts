@@ -1,0 +1,2 @@
+@ECHO OFF
+cd c:\WINDOWS\System32

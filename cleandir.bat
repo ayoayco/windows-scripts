@@ -1,6 +1,6 @@
 @ECHO OFF
 
-rm *~
-rm .*~
-rm *swp
-rm .*swp
+rm -r *~
+rm -r .*~
+rm -r *swp
+rm -r .*swp
